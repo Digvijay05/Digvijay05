@@ -1,28 +1,87 @@
+# Digvijay Jadav
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jadav._.digvijay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/digvijay-jadav) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14901916) 
+**Software Engineer — High-Performance Architecture & Intelligent Systems**
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Digvijay05&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Digvijay05&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Digvijay05&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Digvijay05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/digvijay-jadav)
+[![Email](https://img.shields.io/badge/Email-digvijayjadav.dev@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:digvijayjadav.dev@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Digvijay05&icon=5&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/digvijay05) 
+## ⚙️ Engineering Philosophy
 
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
+I engineer backend systems that survive concurrency, and intelligent pipelines that solve hard problems. My work sits at the intersection of scalable API design, applied machine learning, and production-grade business software. 
+
+I care about engineering rigor — preferring row-level database locking over wishful thinking, vectorized GPU filtering over brute-force loops, and robust automation over manual repetition.
+
+Currently pursuing a B.E. in Computer Science & Engineering (Data Science) at VGEC, Ahmedabad (Expected 2029).
+
+---
+
+## 🛠️ Tech Stack
+
+*   **Languages:** Python, JavaScript, TypeScript, SQL, Kotlin
+*   **Backend & Systems:** FastAPI, Django, Node.js, PostgreSQL (asyncpg), Docker, Nginx
+*   **Data & AI:** PyTorch, Scikit-learn, Optuna, Local LLMs (Ollama), Pandas, NumPy
+*   **Automation & Tools:** Selenium, BeautifulSoup, n8n, GitHub Actions
+
+---
+
+## 🚀 Showcase Projects
+
+### [CIPHER — Autonomous Honeypot & Threat Intelligence](https://github.com/Digvijay05/cipher-intel)
+A decentralized, dual-layer cybersecurity system built to intercept and waste the time of SMS scammers. *Evolved from the AI Honeypot API prototype developed during the GUVI Hackathon.*
+*   **Architecture:** An Android edge client (Kotlin) performs offline regex triage, routing malicious SMS to a scalable FastAPI cloud backend.
+*   **AI Integration:** LLMs (Ollama/Groq) dynamically generate persona-driven conversations to bait attackers.
+*   **Scale:** Asynchronous webhook reporting extracts actionable telemetry (UPI IDs, phishing URLs) without blocking the main event loop.
+
+### [FleetFlow — Concurrent Logistics Platform](https://github.com/Digvijay05/fleetflow) 🏆 *Odoo Hackathon*
+A high-performance fleet management platform engineered for absolute data integrity.
+*   **Concurrency:** Eliminated dispatch race conditions using optimistic concurrency control and row-level locking (`SELECT ... FOR UPDATE`).
+*   **Security:** Hardened with JWT authentication, strict 4-tier RBAC, and global rate limiting (60 req/min).
+
+### [JadavJobs Platform — Content Automation System](https://github.com/Digvijay05/jobs_alert_web_scraper)
+A unified Django-based platform that automates job content acquisition, transformation, and delivery at scale. 
+*   **Acquisition Layer:** Selenium and BeautifulSoup workers scrape, transform, and serialize job data into structured posts.
+*   **Publishing Layer:** Django REST Framework API with Celery async task processing, PostgreSQL persistence, and push notification delivery (APNs/FCM).
+
+### [OpenMotor-Optimizer — GPU-Accelerated Engineering](https://github.com/Digvijay05/OpenMotor-Optimizer) 🚀 *VGEC Rocketry Team*
+A physics-guided optimization pipeline for solid rocket motor design, directly integrating with the C++ OpenMotor simulation engine.
+*   **Performance:** Leveraged PyTorch to batch-evaluate millions of candidate geometries against physical constraints on GPU in milliseconds.
+*   **Optimization:** Implemented Bayesian optimization (Optuna TPE) and Genetic Algorithms to navigate a 9-dimensional design space, exporting `.ric` files for fabrication.
+
+### [Techware Billsoft — ERP & Business Operations Platform](https://github.com/Digvijay05/techware_billsoft)
+A comprehensive point-of-sale and business management platform handling critical daily operations.
+*   **Modules:** Unified POS billing, inventory synchronization, HR (employee/leave/salary management), and automated clock-in/out.
+*   **Business Logic:** Automated invoice generation with multiple print formats (A4/A5) and structured data exports (Excel/Text) via Python and PostgreSQL.
+
+---
+
+## 🔬 Research & Thesis
+
+*   **[The Preprocessing Paradox](https://github.com/Digvijay05/PreprocessingDataThesis):** An academic thesis proving data pipeline architecture dominates algorithm selection in medical cost prediction (improved R² from 0.13 to 0.97).
+
+---
+
+## 🏗️ Currently Building
+
+*   **[NarrativeIntelligenceEngine](https://github.com/Digvijay05/NarrativeIntelligenceEngine):** A constitutionally-bound structural proof system for narrative falsification — using graph-theoretic edge density analysis to verify global narrative consistency instead of generative inference.
+
+---
+
+## 🏆 Achievements & Hackathons
+
+*   **HackerRank:** 4-Star rating in Problem Solving.
+*   **Kaggle Certifications:** Intermediate Machine Learning, Feature Engineering, Data Cleaning, Data Visualization.
+*   **Hackathon Excellence:**
+    *   **SIH 2025:** Contributed to the *Civic Issue Reporting System*, an administrative workflow platform.
+    *   **ET AI Hackathon:** Backend & APIs Lead for *The Aurelions* — built a long-context narrative consistency classifier using Pathway.
+    *   **PDPU Hackathon:** Engineered the FastAPI backend and deployment pipeline for *AIWomenSafety*.
+    *   **Odoo Hackathons:** Architected *FleetFlow* (Backend) and *VendorBridge* (Frontend).
+    *   **GUVI Hackathon:** Developed the *AI Honeypot API* prototype — the foundation for CIPHER.
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Digvijay05&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digvijay05&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+</div>
