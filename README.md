@@ -84,6 +84,7 @@ A comprehensive point-of-sale and business management platform handling critical
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Digvijay05&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digvijay05&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Digvijay05&theme=dark&hide_border=false&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digvijay05&theme=dark&hide_border=false&count_private=true&layout=compact" width="48%" />
 </div>
+
