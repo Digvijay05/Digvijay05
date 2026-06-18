@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Exceptions
+!README.md
+!CV.md
+!resume.md
+!.gitignore
