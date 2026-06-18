@@ -4,6 +4,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/digvijay-jadav)
 [![Email](https://img.shields.io/badge/Email-digvijayjadav.dev@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:digvijayjadav.dev@gmail.com)
+[![Codeforces](https://img.shields.io/badge/Codeforces-%23D14836.svg?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/charmingbug)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%23D14836.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/djgamingttt)
 
 ---
 
