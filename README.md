@@ -3,9 +3,9 @@
 **Software Engineer — High-Performance Architecture & Intelligent Systems**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/digvijay-jadav)
+[![Email](https://img.shields.io/badge/Email-digvijayjadav.dev@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:digvijayjadav.dev@gmail.com)
 [![Codeforces](https://img.shields.io/badge/Codeforces-%23D14836.svg?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/charmingbug)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%23D14836.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/djgamingttt)
-[![Email](https://img.shields.io/badge/Email-digvijayjadav.dev@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:digvijayjadav.dev@gmail.com)
 
 ---
 
@@ -41,7 +41,7 @@ A high-performance fleet management platform engineered for absolute data integr
 *   **Concurrency:** Eliminated dispatch race conditions using optimistic concurrency control and row-level locking (`SELECT ... FOR UPDATE`).
 *   **Security:** Hardened with JWT authentication, strict 4-tier RBAC, and global rate limiting (60 req/min).
 
-### [JadavJobs Platform — Content Automation System](https://github.com/Digvijay05/jobs_alert_web_scraper)
+### [JadavJobs Platform — Content Automation System](https://github.com/Digvijay05/jadavjobs-main)
 A unified Django-based platform that automates job content acquisition, transformation, and delivery at scale. 
 *   **Acquisition Layer:** Selenium and BeautifulSoup workers scrape, transform, and serialize job data into structured posts.
 *   **Publishing Layer:** Django REST Framework API with Celery async task processing, PostgreSQL persistence, and push notification delivery (APNs/FCM).
@@ -72,19 +72,18 @@ A comprehensive point-of-sale and business management platform handling critical
 
 ## 🏆 Achievements & Hackathons
 
-*   **HackerRank:** 4-Star rating in Problem Solving.
-*   **Kaggle Certifications:** Intermediate Machine Learning, Feature Engineering, Data Cleaning, Data Visualization.
+*   **HackerRank:** [4-Star rating in Problem Solving](https://www.hackerrank.com/profile/djgamingttt).
+*   **Kaggle Certifications:** [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/charmingbug/intermediate-machine-learning), [Feature Engineering](https://www.kaggle.com/learn/certification/charmingbug/feature-engineering), [Data Cleaning](https://www.kaggle.com/learn/certification/charmingbug/data-cleaning), [Data Visualization](https://www.kaggle.com/learn/certification/charmingbug/data-visualization).
 *   **Hackathon Excellence:**
     *   **SIH 2025:** Contributed to the *Civic Issue Reporting System*, an administrative workflow platform.
     *   **ET AI Hackathon:** Backend & APIs Lead for *The Aurelions* — built a long-context narrative consistency classifier using Pathway.
-    *   **PDPU Hackathon:** Engineered the FastAPI backend and deployment pipeline for *AIWomenSafety*.
-    *   **Odoo Hackathons:** Architected *FleetFlow* (Backend) and *VendorBridge* (Frontend).
-    *   **GUVI Hackathon:** Developed the *AI Honeypot API* prototype — the foundation for CIPHER.
+    *   **PDPU Hackathon:** Engineered the FastAPI backend and deployment pipeline for *[AIWomenSafety](https://github.com/Digvijay05/AIWomenSafety)*.
+    *   **Odoo Hackathons:** Architected *[FleetFlow](https://github.com/Digvijay05/fleetflow)* (Backend) and *[VendorBridge](https://github.com/Digvijay05/VendorBridge)* (Frontend).
+    *   **GUVI Hackathon:** Developed the *[AI Honeypot API](https://github.com/Digvijay05/AI_Honeypot_API)* prototype — the foundation for *[CIPHER](https://github.com/Digvijay05/cipher-intel)*.
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Digvijay05&theme=dark&hide_border=false&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digvijay05&theme=dark&hide_border=false&count_private=true&layout=compact" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Digvijay05&show_icons=true&theme=dark&hide_border=false&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digvijay05&show_icons=true&theme=dark&hide_border=false&count_private=true&layout=compact" width="48%" />
 </div>
-
